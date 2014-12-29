@@ -7,7 +7,7 @@ Petty Java
 ============
 
 ```
-monospaced.plain.alphabetic=monaco
-...
-filename.monaco=MONACO.TTF
+    monospaced.plain.alphabetic=monaco
+    ...
+    filename.monaco=MONACO.TTF
 ```
