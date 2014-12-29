@@ -1,5 +1,6 @@
 ---
 title: Petty Java
+layout: post
 ---
 
 Petty Java
